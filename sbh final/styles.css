@@ -25,7 +25,7 @@ body {
 form {
     display: flex;
     flex-direction: column;
-    gap: 20px; /* Increased gap between form elements */
+    gap: 10px; /* Increased gap between form elements */
 }
 
 label {
